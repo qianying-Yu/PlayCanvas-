@@ -1,3 +1,4 @@
+// 模型入场动画
 var PhoneModelRotate = pc.createScript('PhoneModelRotate');
 
 PhoneModelRotate.prototype.initialize = function () {
