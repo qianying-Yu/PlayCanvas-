@@ -1,5 +1,7 @@
+
+// loading 动画
 pc.script.createLoadingScreen(function (app) {
-    const description = '屏幕上轻点并转动<br>查看 iqoo 15t';
+    const description = '屏幕上轻点并转动<br>查看 模型';
     let currentProgress = 0;
 
     // 判断是否为PC
