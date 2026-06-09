@@ -1,4 +1,5 @@
 
+// 手机端 touch 动画
 var MouseInput = pc.createScript('mouseInput');
 
 MouseInput.attributes.add('orbitSensitivity', {
