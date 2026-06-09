@@ -1,3 +1,5 @@
+
+// 轨道相机动画
 var OrbitCamera = pc.createScript('orbitCamera');
 
 OrbitCamera.attributes.add('distanceMax', {type: 'number', default: 3.5, title: 'Distance Max', description: 'Setting this at 0 will give an infinite distance limit'});
